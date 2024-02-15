@@ -15,5 +15,3 @@
 	team, leveraging our collective expertise and unwavering passion for 
 	software development.
 </p>
-
----
