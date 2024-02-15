@@ -1,8 +1,10 @@
+---
+
 <p align="center">
    <img src="https://raw.githubusercontent.com/dapensoft/.github/master/assets/images/dapensoft-logo-name-slogan.svg" alt="Dapensoft" width="750px">
 </p>
 
-<br>
+---
 
 <p style='text-align: justify;'>
     &emsp;&emsp;Dapensoft is a dynamic software development organization co-founded 
@@ -13,3 +15,5 @@
 	team, leveraging our collective expertise and unwavering passion for 
 	software development.
 </p>
+
+
